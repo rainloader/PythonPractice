@@ -1,4 +1,4 @@
-# Fibonacci series practice
+# Fibonacci sequence practice
 fib_start = 0
 
 def fib(n):
